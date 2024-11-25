@@ -1,7 +1,2 @@
-# Introduction to Computer Vision. 
-#### Innopolis University. B22-AI-01 
-#### Course project. 
-Forest preservation is an important part of environment protection initiatives around the world. Logging deals considerable damage to forests and it is important to prevent forest depletion and stop illegal logging.
-\
-\
-Our project aims to provide simple and effective solution for this problem by utilizing image segmentation technique on aerial images of forest areas.
+# Aerial Image Segmentation for Illegal Logging Detection and Forest Conservation
+Forest preservation is a critical component of global environmental protection initiatives. Forest ecosystems provide invaluable ecological services, including carbon sequestration, biodiversity support, and climate regulation. In this project, we explore the application of image segmentation techniques to aerial imagery to detect forested and non-forested areas accurately. The project involves preprocessing and augmenting a dataset of aerial forest images, implementing multiple segmentation models (including UNet, SegNet, and FCN variations), and evaluating their performance using various metrics. Our results demonstrate the feasibility of using these techniques for forest monitoring, with potential applications in conservation, detecting deforestation, and monitoring logging activities.
